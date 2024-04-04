@@ -1,4 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Programming Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaynnn&theme=catppuccin_latte&layout=compact&hide=html,scss,css,javascript" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaynnn&show_icons=true&theme=catppuccin_latte" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynnn&langs_count=8&hide=javascript,html&theme=catppuccin_latte)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynnn&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
